@@ -1,7 +1,7 @@
 # homebrew-ndo
 
-Homebrew tap for [ndo](https://github.com/NoufalBhai/ndo), maintained by goreleaser.
+Homebrew tap for [ndo](https://github.com/green-threads/ndo), maintained by goreleaser.
 
 ```
-brew install NoufalBhai/ndo/ndo
+brew install green-threads/ndo/ndo
 ```
